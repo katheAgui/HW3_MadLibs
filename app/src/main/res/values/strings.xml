@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW3_MadLibs</string>
+    <string-array name="lista_de_histirias">
+        <item>Elige la historia que quieres comenzar</item>
+        <item>Hacer una historia corta</item>
+        <item>Haz una historia de tarzán</item>
+        <item>Haz una historia de la universidad</item>
+        <item>Haz una historia de ropa</item>
+        <item>Haz una historia de baile</item>
+    </string-array>
+</resources>
